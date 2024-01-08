@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Basico</string>
+    <string name="app_email">Login_Email</string>
+    <string name="app_password">Login_Password</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="email">Email</string>
+    <string name="exit">Exit</string>
+    <string name="password">password</string>
+    <string name="picDescription">Profile Picture</string>
+    <string name="userData">TochtliNava\'s Userprofile</string>
+</resources>
